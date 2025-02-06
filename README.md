@@ -1,2 +1,2 @@
-# Code-of-problem.
+Code-chef.
 code solution of problem statement.
